@@ -42,7 +42,9 @@ https://newtown.site/lineup/%E3%82%AE%E3%83%A3%E3%83%AB%E9%9B%BB
 2019 12 東急ハンズ渋谷店ポップアップイベント開催  
 2020 1 ICC Bright Future——オドンオドンから学ぶ，LEDデザインワークショップ出演  
 https://www.ntticc.or.jp/ja/exhibitions/2020/bright-future-diy-led-workshop-with-waft-lab-jan-13-2020/  
-2020 2 表参道　光るカセットテープワークショップ開催  
+2020 2 表参道　光るカセットテープワークショップ開催
+2020 9 Lidia 絶対に晴れるIoTテンアゲ↑てるてる坊主 記事用作品制作 出演
+https://lidea.today/articles/002665
 2020 10 東京都写真美術館　マトリクスLEDワークショップ開催  
 https://topmuseum.jp/contents/workshop/details-3949.html  
 2020 11 東急ハンズ渋谷店ポップアップイベント「ニューノーマル」を明和電機、藤原麻里菜氏と共同開催  
@@ -79,7 +81,7 @@ https://www.pref.kanagawa.jp/documents/93335/saijiki22_flyer.pdf
 https://ccbt.rekibun.or.jp/events/arttechlab2  
 2023 3 ジュンク堂書店池袋本店　分解のススメワークショップ開催  
 2023 7 そらLab名古屋　キックオフミーティング ゲスト出演 
-2023 7　ヤマト運輸エンタメサイト「クロネコみっけヤマト」ネコに人気のキャットタワーを検証するキャットタワー設計バトル　キャットタワー作品提供、出演
+2023 7　ヤマト運輸エンタメサイト「クロネコみっけヤマト」キャットタワー設計バトル　キャットタワー作品提供、出演
 2023 8 ヘボコン2023 審査員  
 https://dailyportalz.jp/kiji/hebocon2023-kokuchi  
 2023 10  MakerFairTokyo2023　YoungMakerChallenge審査員  
@@ -98,17 +100,28 @@ https://ais-j.org/publications/whitepaper_2023-2024/
 https://bijutsutecho.com/exhibitions/14618
 2024 11 脳汁銭湯　当たりロッカー制作
 https://noujirusento.com/
-
-2025 8 LightsWill 「AIカメラで遊ぶアイデアソン FUTURE SKETCH TECH-LIVE ACT.1」ゲスト登壇
-https://lightswill.com/sense/ideathon-event-report/2508-1-1/
-
-
+2024 12 アーツセンターあきた 全国高校生何でも、アリ。Creative Award 2024 審査員 
+2025 2 メイカーズオアシス　ギャル電のでらテンアゲ↑鬼盛りLEDワークショップ2025、意識の低いプレゼンバトル企画/MC
+https://prtimes.jp/main/html/rd/p/000001313.000014977.html
+2025 5　脳汁スタンド ピンボール電子工作演出装置制作
+https://noujirustand.com/
+2025 6 ヘボコン2025 サブMC
+https://dailyportalz.jp/kiji/hebocon2025-report
 2025 6/21-22 JUST ANOTHER SPACE おかしなお金Ⅱ　情報屋として参加
 https://bijutsutecho.com/exhibitions/16117
-2024/12 アーツセンターあきた 全国高校生何でも、アリ。Creative Award 2024 審査員 
+2025 6 景丘の家　ギャル電のテンアゲ↑『LED愛バッチを光らそうWS
+https://kageoka.com/artschool/29365/
+2025 7 コミュタン福島 叩くと光るボールWS（工作原案 藤原麻里菜さん）講師
+2025 8 LightsWill 「AIカメラで遊ぶアイデアソン FUTURE SKETCH TECH-LIVE ACT.1」ゲスト登壇
+https://lightswill.com/sense/ideathon-event-report/2508-1-1/
+2025 9 ガルフィー PV用自転車電飾デコ
+2025 10 MakerFairTokyo2025　YoungMakerChallenge審査員
+2025 11 脳汁銭湯2025 脳汁扇風機 電子工作演出装置作成
+2026 1 ジャパンモビリティショー札幌 We are Engine. Show 2026 デコサンバイザーWS、トークショー出演
 
 
 ## 【メディア】
+2018 8 FHM台湾　グラビア、インタビュー
 2019 4　TBS ラジオ アフター6 ジャンクション 出演  
 https://www.tbsradio.jp/292688  
 2019 5　NHK 沼にハマってきいてみた「工作沼」回出演  
@@ -142,18 +155,50 @@ https://tver.jp/episodes/epxa16hdid
 2023 11 月刊ブレーン2023/11月号　今月のブックマーク 寄稿
 2023 11 SUPER DOMMUNE「SOCIAL INNOVATION WEEK 2023」シビック・クリエイティブ トーク第２部：Civic Creative の未来－アート×テック×市民 出演
 2024 1 マツコの知らない世界　新年会延長戦回　アートトラックなぎとさん とのコラボ作品制作、出演
+2025 4 J-wave あれ、ふかわじゃね？#4 出演
+https://j-wave.podcast.sonicbowl.cloud/podcast/d9f38f69-041f-4cc1-93aa-bdfaa04e161c/
+2025 7 中京テレビ ムジナバケール 作品制作　出演
+https://www.ctv.co.jp/bakale/
+2025 7 嘉穂無線ホールディングスCM「答えはひとつじゃない」篇　出演
+https://www.youtube.com/watch?v=zzGBoemLZtY
 
-
-## 【インタビュー】
-
+## 【インタビュー/対談等】
+2017 4 KDDI Time & Space
+https://time-space.kddi.com/interview/netlife/20170406.html
+2017 4 Code Camps
+https://blog.codecamp.jp/gyaru-iot
+2017 8 キャリアハック
+https://careerhack.en-japan.com/report/detail/845
 2017 9 パーソナルテクノロジー i:Engineer 
 https://staff.persol-xtech.co.jp/i-engineer/interesting/galden
 2018 1 CINRA
 https://www.cinra.net/article/interview-201801-gyaruden
+2018 12 エンジニアtype
+https://type.jp/et/feature/9605/
 2019 2 LabBase 就職
 https://compass.labbase.jp/articles/315
+2019 6 AIreVOICE
+https://aire-voice.com/interview/3854/
+2020 1 Finders
+https://finders.me/kqFQpDE1Nzc
 2020 3 GQ Jqpan
 https://www.gqjapan.jp/culture/article/20200331-galden
+2020 3 CINRA
+https://www.cinra.net/article/interview-202003-kumafoundation_myhrt
+2020 8 CUfTURE CINRA
+https://cufture.cinra.net/article/202008-kuritakyouko_kawrk
+2020 11 となりのカインズさん
+https://magazine.cainz.com/article/20872
+2020 12 パーソナルテクノロジー i:Engineer
+https://staff.persol-xtech.co.jp/i-engineer/human/galdenxsenior
+2021 3 クマ財団
+https://kuma-foundation.org/news/3513/
+2021 5 WalkerPlus
+https://www.walkerplus.com/article/1031867/
+2021 10 文春オンライン
+https://bunshun.jp/articles/-/48899
+2024 2 うにくえ
+https://unique.kaonavi.jp/2436/
 2024 9 Findy
 https://findy-code.io/engineer-lab/galden999
 
