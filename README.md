@@ -66,23 +66,47 @@ https://www.city.sapporo.jp/kikaku/creativecity/event/creativeknock2022-1.html
 2022 8 東急ハンズ渋谷店　はんだづけワークショップ開催  
 2022 9 MakerFairTokyo2022　YoungMakerChallenge審査員  
 https://makezine.jp/event/makerfaire/ymc2022/  
-2022 10 日本工学院専門学校　かまた祭　異色の経歴を持つ皆さんに聞いてみよう！  
-リケジョのロールモデルイベント登壇  
+2022 10 日本工学院専門学校　かまた祭　異色の経歴を持つ皆さんに聞いてみよう！ リケジョのロールモデルイベント登壇  
 https://kamatasai.jp/2022/neec  
 2022 11 東京大学大学院工学系研究科　テクノサイエンスカフェ出張版 工学×ギャルイベント　出演  
 https://www.t.u-tokyo.ac.jp/event/ev2022-10-20-001  
 2022 12 FabCafe名古屋　はんだづけワークショップ開催  
 https://fabcafe.com/jp/events/nagoya/221225-galden-ws/  
-2023 1日本産業技術教育学会講演  
+2023 1 日本産業技術教育学会講演  
 2023 2 かながわ伝統文化こども歳時記　小田原提灯電飾ワークショップ開催  
 https://www.pref.kanagawa.jp/documents/93335/saijiki22_flyer.pdf  
 2023 2 シビック・クリエイティブ・ベース東京 はんだづけワークショップ開催  
 https://ccbt.rekibun.or.jp/events/arttechlab2  
 2023 3 ジュンク堂書店池袋本店　分解のススメワークショップ開催  
-2023 7 そらLab名古屋　キックオフミーティング ゲスト出演  
+2023 7 そらLab名古屋　キックオフミーティング ゲスト出演 
+2023 7　ヤマト運輸エンタメサイト「クロネコみっけヤマト」ネコに人気のキャットタワーを検証するキャットタワー設計バトル　キャットタワー作品提供、出演
 2023 8 ヘボコン2023 審査員  
 https://dailyportalz.jp/kiji/hebocon2023-kokuchi  
 2023 10  MakerFairTokyo2023　YoungMakerChallenge審査員  
+2023 11/29-12/11　西武池袋本店／アートカプセル＋ 令和ヤンキーテック伝説～無駄づくりとギャル電～ 藤原麻里菜さんとの2人展にて作品展示、グッズ販売
+https://www.sogo-seibu-transculture.jp/l25_yankee-tech-_saga-gal-telephone/
+2024 6 日本バーチャルリアリティ学会誌29-2 ノリとバイブスではじめるギャル電分解入門 寄稿
+https://www.jstage.jst.go.jp/article/jvrsj/29/2/29_12/_article/-char/ja
+2024 7/20-8/4 マイラボ渋谷 ミュ～ダと役に立たない工作　(役に立たない工作クリエイターコレクティブ ミュ～ダ合同展)　作品展示
+https://mylab-shibuya.jp/events/yakunitatanai/
+2024 8 佐賀県理系人材育成プロジェクト 高校生向け進路セミナー イベント登壇
+2024 8 建築情報学会白書 2023-2024　作ってみようギャル電子工作　寄稿
+https://ais-j.org/publications/whitepaper_2023-2024/
+2024 10 峯田茉優の「カルカルロボット部」本日創立！ イベント出演
+2024 10 MakerFairTokyo2024　YoungMakerChallenge審査員
+2024 10/19-20 新宿王城ビル おかしなお金 情報屋として参加
+https://bijutsutecho.com/exhibitions/14618
+2024 11 脳汁銭湯　当たりロッカー制作
+https://noujirusento.com/
+
+2025 8 LightsWill 「AIカメラで遊ぶアイデアソン FUTURE SKETCH TECH-LIVE ACT.1」ゲスト登壇
+https://lightswill.com/sense/ideathon-event-report/2508-1-1/
+
+
+2025 6/21-22 JUST ANOTHER SPACE おかしなお金Ⅱ　情報屋として参加
+https://bijutsutecho.com/exhibitions/16117
+2024/12 アーツセンターあきた 全国高校生何でも、アリ。Creative Award 2024 審査員 
+
 
 ## 【メディア】
 2019 4　TBS ラジオ アフター6 ジャンクション 出演  
@@ -115,6 +139,26 @@ https://news.mynavi.jp/article/ochanoma_sama-7/
 https://open.spotify.com/episode/0FpcxOiC9uW9CVMT1wt8Dz  
 2023 10 テレビ朝日　ジェシカ美術部#28 #29　出演  
 https://tver.jp/episodes/epxa16hdid  
+2023 11 月刊ブレーン2023/11月号　今月のブックマーク 寄稿
+2023 11 SUPER DOMMUNE「SOCIAL INNOVATION WEEK 2023」シビック・クリエイティブ トーク第２部：Civic Creative の未来－アート×テック×市民 出演
+2024 1 マツコの知らない世界　新年会延長戦回　アートトラックなぎとさん とのコラボ作品制作、出演
+
+
+## 【インタビュー】
+
+2017 9 パーソナルテクノロジー i:Engineer 
+https://staff.persol-xtech.co.jp/i-engineer/interesting/galden
+2018 1 CINRA
+https://www.cinra.net/article/interview-201801-gyaruden
+2019 2 LabBase 就職
+https://compass.labbase.jp/articles/315
+2020 3 GQ Jqpan
+https://www.gqjapan.jp/culture/article/20200331-galden
+2024 9 Findy
+https://findy-code.io/engineer-lab/galden999
+
+CEMEDINEStyle（インタビュイー、記事作成）
+https://www.cemedine.co.jp/cemedine_reports/mashita.Interview2026.html
 
 ## 【Web連載】
 FabCross  
