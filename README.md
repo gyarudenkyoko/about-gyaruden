@@ -155,7 +155,7 @@
 * **2021 10**：[文春オンライン](https://bunshun.jp/articles/-/48899)
 * **2024 02**：[うにくえ](https://unique.kaonavi.jp/2436/)
 * **2024 09**：[Findy](https://findy-code.io/engineer-lab/galden999)
-* **その他**：[CEMEDINE Style（インタビュイー、記事作成）](https://www.cemedine.co.jp/cemedine_reports/mashita.Interview2026.html)
+* **その他**：[CEMEDINE Style（インタビュアー、記事作成）](https://www.cemedine.co.jp/cemedine_reports/mashita.Interview2026.html)
 
 ---
 
